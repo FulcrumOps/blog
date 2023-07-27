@@ -8,7 +8,7 @@ toc: false
 
 # Terraform's `import` block
 
-Terraform's [1.5.0](https://github.com/hashicorp/terraform/blob/v1.5/CHANGELOG.md#150-june-12-2023) release introduced `import` blcoks to assist with importing
+Terraform's [1.5.0](https://github.com/hashicorp/terraform/blob/v1.5/CHANGELOG.md#150-june-12-2023) release introduced `import` blocks to assist with importing
 existing infrastructure into your Infrastructure as Code. Let's take it for a spin.
 
 ## AWS Identity Store User
