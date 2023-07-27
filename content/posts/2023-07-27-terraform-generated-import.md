@@ -62,7 +62,7 @@ resource "aws_identitystore_user" "pete" {
   emails {
     primary = true
     type    = "work"
-    value   = "pete@fulcromops.com"
+    value   = "pete@fulcrumops.com"
   }
   name {
     family_name      = "Emerson"
